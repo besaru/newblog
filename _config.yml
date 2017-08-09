@@ -6,7 +6,7 @@ title: SaludZen - Blog
 email: saludzen@gmail.com
 description: Create a lovely blog
 twitter_username: saludzen
-github_username:  besaru
+github_username: besaru
 
 # Build settings
 markdown: kramdown
